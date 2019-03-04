@@ -1,0 +1,5 @@
+XSym
+0130
+9c52f99f670bdbaa3128f9506f9c2ae4
+../../../../../../../../../../Users/admin/Desktop/flutter/bin/cache/artifacts/engine/ios/Flutter.framework/Headers/FlutterPlugin.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             

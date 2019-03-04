@@ -1,0 +1,5 @@
+XSym
+0065
+5611d12d192bd8e443ae750bd6f1fa01
+../../../../.symlinks/plugins/sqflite/ios/Classes/SqflitePlugin.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              

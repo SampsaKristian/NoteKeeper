@@ -1,0 +1,5 @@
+XSym
+0130
+5f508e5797eebbe889a42a075161cf24
+../../../../../../../../../../Users/admin/Desktop/flutter/bin/cache/artifacts/engine/ios/Flutter.framework/Headers/FlutterCodecs.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             

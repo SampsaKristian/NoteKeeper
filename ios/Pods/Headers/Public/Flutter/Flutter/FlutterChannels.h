@@ -1,0 +1,5 @@
+XSym
+0132
+172b728dc0fe6d0c36a038a33e45f76a
+../../../../../../../../../../Users/admin/Desktop/flutter/bin/cache/artifacts/engine/ios/Flutter.framework/Headers/FlutterChannels.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
